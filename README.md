@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alexey Kandyba <img src="assets/lizzard_hello.webp" alt='hello' width="45" /></h1>
+<h1 align="center">Hi there, I'm Alexey Kandyba 👋</h1>
 <h3 align="center">Frontend developer</h3>
 <div align="center">
   <a href="https://t.me/Rob_Marvin" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -68,10 +68,15 @@
     <td>
       <h3 align="center">eLogist App</h3>
       <p align="center"><b>Service that is provided to customers (logistics operators of various types) in the form of an API service with a customizable application</b></p>
-      <p>The platform features both admin and user interface.<br/>The user interface provides a dashboard with different tables with basic metrics, summary and statistic information in diagrams and charts, interactive media plan, chat and a final report (also available for download .pdf or .docx).<br/>The administrator interface allows create campaigns and edit its settings, create/edit creatives and publications, view logs. It also includes a campaign CRM for efficient campaign management.</p>
-      <p>Role: Fullstack developer.</p>
-      <p>Stack: TypeScript, Next.js, Tailwind, shadcn/ui, tRPC, TanStack Query, Zod, React Hook Form, date-fns, react-pdf, docx, pnpm, nix, fish shell, Docker, PostgreSQL, ClickHouse, Drizzle ORM, Bcrypt, Vercel blob, ESLint, Prettier, SonarQube.</p>
-      <p>Contribution: single-handedly frontend development, including project settings, cross-browser adaptive layout, core application functionality, routing, authentication, integration with backend. Also responsible for over 60% of backend development, including creation backend table schemas, tables, routers and methods, vercel blob sdk using and etc. Implemented from conception to production launch.</p>
+      <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
+      <p>Role: Frontend developer.</p>
+      <p>Stack: React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
+      <p>Contribution:
+        - Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.
+        - Updated authentication flow: redesigned login and registration pages for better UX.
+        - Replaced Axios with RTK Query for more efficient and structured data management.
+        - Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.
+        - Implemented password verification page and developed key sections of the user profile module.</p>
       <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: private (NDA).</p>
     </td>
