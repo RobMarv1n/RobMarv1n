@@ -71,7 +71,7 @@
       <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
       <p>Role: Frontend developer.</p>
       <p>Stack: React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
-      <ul>Contribution:
+      <ul style="margin:0">Contribution:
         <li>Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.</li>
         <li>Updated authentication flow: redesigned login and registration pages for better UX.</li>
         <li>Replaced Axios with RTK Query for more efficient and structured data management.</li>
