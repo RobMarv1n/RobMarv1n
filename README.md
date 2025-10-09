@@ -71,12 +71,13 @@
       <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
       <p>Role: Frontend developer.</p>
       <p>Stack: React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
-      <p>Contribution:
-        - Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.
-        - Updated authentication flow: redesigned login and registration pages for better UX.
-        - Replaced Axios with RTK Query for more efficient and structured data management.
-        - Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.
-        - Implemented password verification page and developed key sections of the user profile module.</p>
+      <ul>Contribution:
+        <li>Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.</li>
+        <li>Updated authentication flow: redesigned login and registration pages for better UX.</li>
+        <li>Replaced Axios with RTK Query for more efficient and structured data management.</li>
+        <li>Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.</li>
+        <li>Implemented password verification page and developed key sections of the user profile module.</li>
+      </ul>
       <p>Deploy: <a href="https://jpvision.ru/" target="_blank" rel="noreferrer">link</a>.</p>
       <p>Repository: private (NDA).</p>
     </td>
