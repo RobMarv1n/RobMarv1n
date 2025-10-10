@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alexey Kandyba 👋</h1>
+<h1 align="center">Hi there, I'm Alexey Kandyba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <h3 align="center">Frontend developer</h3>
 <div align="center">
   <a href="https://t.me/Rob_Marvin" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -29,7 +29,7 @@
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="rtk" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
