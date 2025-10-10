@@ -1,4 +1,7 @@
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZpaTJ0cnozb3QwZDNkZHlkc3AzeXdubTh1ZHZldTIwNzI1NjN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E136ihXhzuG2OnxKen/giphy.gif" alt="pengu-wellcome"  width="200">
+<div id="header" align="center">
+  <<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZpaTJ0cnozb3QwZDNkZHlkc3AzeXdubTh1ZHZldTIwNzI1NjN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E136ihXhzuG2OnxKen/giphy.gif" alt="pengu-wellcome" width="200">
+</div>
+
 <h1 align="center">Hi there, I'm Alexey Kandyba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 <h3 align="center">Frontend developer</h3>
 <div align="center">
