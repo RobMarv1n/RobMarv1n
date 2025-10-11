@@ -62,7 +62,8 @@
 
 <h3 align="center">Stats:</h3>
 
-<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" /> <img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=RobMarv1n&layout=compact" /> <img alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobMarv1n&theme=default" />
+<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" /><img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=RobMarv1n&layout=compact" />
+<!-- <img alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobMarv1n&theme=default" /> -->
 
 <h3 align="center">Projects:</h3>
 
