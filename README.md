@@ -47,7 +47,7 @@
   <img alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="biome" src="https://img.shields.io/badge/Biome-60a5fa?style=for-the-badge&logo=biome" />
+  <img alt="biome" src="https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff&style=for-the-badge" />
   <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=fff" />
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
