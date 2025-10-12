@@ -24,21 +24,22 @@
 
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <div>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white" />
-  <img alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img alt="sass" src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 <div>
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" />
-  <img alt="rtk" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" />
   <img alt="zustand" src="https://img.shields.io/badge/Zustand-%23333A45.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA8FBMVEVHcExXQzpKQDlFV16lpqyGh4tPPTdWT0weHRU7LRZGQzmxYjlaTkZsbmywVyxtXDSFhISXm6WWpcaytb6bm56gprY0LiiXmp2prLamsMa0XS42MSxkTUVDSkuyYzGihXdDV2GprbmedVxaRD1kTUWUdGFGOCN4a2OfpbI0SFFAMSddTkbCc0dWQiGFRypXQyJUQCBcTTWviDVXQyJcUDjlqCWxjkG+hBTiohtURD6lr8lORTtDVVZmPyxwSipaRSJDOzaWpsyYqMyYqM2dq8tPOjBERTs6QUKTcCeKaCJvViZdSDK4iSngoiDvqx7KkRuGEi1hAAAAOXRSTlMApZ78cB8hCAMQO/j/FOH4KlT1wFfJTjaY6SxtVexFn3Tn2sN6d671mVuJ+/PPN9CT6TfpS4C9jJaVLRihAAAAi0lEQVQIHXXBxRKCUAAF0Es/QMDubsVuGrv1///GBQ4bx3PwgwC8gFCRohs8QrQV0ZtKOZ9JcgBmU8MwqFa9kjNTUWB58f2jPOjU9juTBTbPq+vIar972MZjwPr1uDvqCFw2wQpQVm/t7Oo9gAgAFtrtZNtMFQFp7nkWU5IQECfjYbuQFvBFRJHgjw9L0A80UmaGpAAAAABJRU5ErkJggg==&logoColor=white" />
   <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white" />
   <img alt="shadcn" src="https://img.shields.io/badge/ShadcnUI-000000?logo=shadcnui&logoColor=white" />
+  <img alt="swr" src="https://img.shields.io/badge/ShadcnUI-000000?logo=shadcnui&logoColor=white" />
+  https://img.shields.io/badge/SWR-%23333A45.svg?&logo=vercel&logoColor=%23EC4899
 </div>
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
@@ -53,6 +54,7 @@
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
   <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat" />
+  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" />
 </div>
 <div>
