@@ -51,7 +51,7 @@
   <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?logo=lefthook&logoColor=fff&style=flat" />
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white" />
-  <img alt="jest" src="https://img.shields.io/badge/Jest%20Tests-C21325?logo=jest&logoColor=white" />
+  <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
   <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" />
 </div>
