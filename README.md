@@ -68,13 +68,11 @@
 
 <hr>
 
-<h2 align="center">Stats:</h2>
+<h2 align="center">🔥 My Stats:</h2>
 
 <div align="center">
-  <a href="https://github.com/RobMarv1n">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&show_icons=true&theme=great-gatsby&rank_icon=percentile"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&show_icons=true&theme=great-gatsby&rank_icon=percentile"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
 <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" />
 
@@ -156,3 +154,13 @@
 
 <a href="https://app.rs.school/certificate/9s7trg01" target="_blank" rel="noreferrer"><img width="33%" alt="react" src="assets/react-sertificate.png" />
 <a href="https://app.rs.school/certificate/b4d05mfa" target="_blank" rel="noreferrer"><img width="33%" alt="js-fe" src="assets/js-fe-sertificate.png" />
+
+<div id="contacts" align="center">
+  <h3>💬 Let's Connect!</h3>
+  <p>I'm always excited to discuss frontend development, share knowledge, and collaborate on interesting projects.</p>
+
+  <div align="center">
+    <a href="https://t.me/Rob_Marvin" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:fenalfan@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </div>
+</div>
