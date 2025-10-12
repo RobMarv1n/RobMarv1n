@@ -47,12 +47,12 @@
   <img alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="biome" src="https://img.shields.io/badge/Biome-60a5fa?style=flat&style=for-the-badge&logo=biome" />
-  <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=fff&style=flat" />
+  <img alt="biome" src="https://img.shields.io/badge/Biome-60a5fa?style=for-the-badge&logo=biome" />
+  <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=fff" />
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff&style=flat" />
+  <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </div>
