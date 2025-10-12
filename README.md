@@ -75,8 +75,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
   </a>
 </div>
-
-<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" /><img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=RobMarv1n&layout=compact" />
 <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 
 <h3 align="center">Projects:</h3>
