@@ -157,11 +157,13 @@
       <p><b>Role:</b> Team Lead</p>
        <p><b>Stack:</b> React, TypeScript, Vite, CommerceTools SDK, React Router, React Hook Form, Sonner, Swiper, Vitest + React Testing Library, ESLint, Prettier, Stylelint, Husky, Commitlint, Lint-Staged</p>
       <p><b>Contribution:</b></p>
-        - Integrated automated CI/CD pipeline using GitHub Actions with Lighthouse performance checks to ensure consistent UX quality across deployments
-        - Developed authentication and user management, including Login, Registration, and Profile pages.
-        - Implemented route protection with React Router and tailored UI visibility based on authentication state.
-        - Set up pre-commit automation and code quality pipeline with Husky, Commitlint, and Lint-Staged.
-        - Configured Vitest testing environment and implemented unit tests.
+      <ul  style="list-style-type: '- '; padding-left: 1.2em;">
+        <li>Integrated automated CI/CD pipeline using GitHub Actions with Lighthouse performance checks to ensure consistent UX quality across deployments</li>
+        <li>Developed authentication and user management, including Login, Registration, and Profile pages.</li>
+        <li>Implemented route protection with React Router and tailored UI visibility based on authentication state.</li>
+        <li>Set up pre-commit automation and code quality pipeline with Husky, Commitlint, and Lint-Staged.</li>
+        <li>Configured Vitest testing environment and implemented unit tests.</li>
+      </ul>
       <p><b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a></p>
       <p><b>Repository:</b> <a href="#">private</a></p>
     </td>
