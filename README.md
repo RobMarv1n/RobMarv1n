@@ -48,6 +48,7 @@
   <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="biome" src="https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=fff&style=for-the-badge" />
+  <img alt="husky" src="https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white" />
   <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=fff" />
   <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
@@ -55,6 +56,7 @@
   <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" />
   <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img alt="sonar" src="https://img.shields.io/badge/SonarQube-%23333A45?style=for-the-badge&logo=sonarqube&logoColor=fff" />
+  <img alt="zod" src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </div>
 <div>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
@@ -90,14 +92,14 @@
       <p align="center"><b>Service that is provided to customers (logistics operators of various types) in the form of an API service with a customizable application</b></p>
       <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
       <p><b>Role:</b> Frontend developer.</p>
-      <p><b>Stack:</b> React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
+      <p><b>Stack:</b> React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier, SonarQube</p>
       <p><b>Contribution:</b></p>
       <ul>
-        <li>Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.</li>
+        <li>Refactored ~30% of the codebase, eliminating duplication and simplifying the module structure, which accelerated project navigation and facilitated further development.</li>
         <li>Updated authentication flow: redesigned login and registration pages for better UX.</li>
-        <li>Replaced Axios with RTK Query for more efficient and structured data management.</li>
+        <li>Migrated data layer from Axios to RTK Query, enabling built-in caching and auto-refetching across 15+ API endpoints</li>
         <li>Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.</li>
-        <li>Implemented password verification page and developed key sections of the user profile module.</li>
+        <li>Implemented a password verification page and key profile screens, providing the basis for further security features.</li>
       </ul>
       <p>Deploy: Planned — contributing to the pre-release refactoring phase before the initial MVP deployment (NDA).</p>
       <p>Repository: private (NDA).</p>
@@ -126,13 +128,13 @@
   </tr>
 
   <tr>
-    <td><img alt="Ecobazar" src="assets/restClient" /></td>
+    <td><img alt="Ecobazar" src="assets/Ecobazar.png" /></td>
     <td>
       <h3 align="center">Ecobazar</h3>
       <p align="center"><b>Online shop integrated with CommerceTools API</b></p>
       <p>E-commerce SPA, based on CommerceTools SDK. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
       <p><b>Role:</b> Team Lead</p>
-       <p><b>Stack:</b> React, TypeScript, Vite, CommerceTools SDK, React Router, React Hook Form, Zod, Sonner, Swiper, spinners-react, Vitest + React Testing Library, ESLint, Prettier, Stylelint, Husky, Commitlint, Lint-Staged</p>
+       <p><b>Stack:</b> React, TypeScript, Vite, CommerceTools SDK, React Router, React Hook Form, Sonner, Swiper, Vitest + React Testing Library, ESLint, Prettier, Stylelint, Husky, Commitlint, Lint-Staged</p>
       <p><b>Contribution:</b></p>
       <ul>
         <li>Integrated automated CI/CD pipeline using GitHub Actions with Lighthouse performance checks to ensure consistent UX quality across deployments</li>
