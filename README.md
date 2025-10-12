@@ -10,7 +10,7 @@
 </div>
 <hr>
 
-<h2 align="center">About:</h2>
+<h2 align="center">🙍‍♂️ About:</h2>
 
 <img align="right" src="https://www.codewars.com/users/Rob%20Marvin/badges/small" alt="codewars-stats" >
 
@@ -20,7 +20,7 @@
 
 📚 Currently learning Node JS
 
-🌎 Russian, English **B1**
+🌎 Russian **native**, English **B1**
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div>
@@ -68,17 +68,19 @@
 
 <hr>
 
-<h2 align="center">🔥 My Stats:</h2>
+<h2 align="center">📊 My Stats:</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&show_icons=true&theme=great-gatsby&rank_icon=percentile"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
+
+<h3 align="center">🏆 GitHub Trophies:</h3>
 <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" />
 
 <hr>
 
-<h2 align="center">Projects:</h2>
+<h2 align="center">📂 Projects:</h2>
 
 <table>
   <tr>
@@ -87,8 +89,8 @@
       <h3 align="center">eLogist App</h3>
       <p align="center"><b>Service that is provided to customers (logistics operators of various types) in the form of an API service with a customizable application</b></p>
       <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
-      <p>Role: Frontend developer.</p>
-      <p>Stack: React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
+      <p><b>Role:</b> Frontend developer.</p>
+      <p><b>Stack:</b> React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier</p>
       <p><b>Contribution:</b></p>
       <ul>
         <li>Refactored large portions of the codebase, improving maintainability and reducing redundant code by more than 30%.</li>
@@ -148,7 +150,7 @@
 
 <hr>
 
-<h2 align="center">Courses:</h2>
+<h2 align="center">🎓 Courses:</h2>
 
 <h3>JavaScript:</h3>
 
