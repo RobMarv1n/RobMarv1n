@@ -130,18 +130,18 @@
     <td>
       <h3 align="center">Ecobazar</h3>
       <p align="center"><b>Online shop integrated with CommerceTools API</b></p>
-      <p>The application enables users to authenticate, construct API requests, inspect responses, and store previous queries for reuse. Authenticated and guest users have access to different interface states, ensuring a secure and structured workflow.</p>
-      <p><b>Role:</b> Frontend Developer</p>
+      <p>E-commerce SPA, based on CommerceTools SDK. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
+      <p><b>Role:</b> Team Lead</p>
        <p><b>Stack:</b> React, TypeScript, Vite, CommerceTools SDK, React Router, React Hook Form, Zod, Sonner, Swiper, spinners-react, Vitest + React Testing Library, ESLint, Prettier, Stylelint, Husky, Commitlint, Lint-Staged</p>
       <p><b>Contribution:</b></p>
       <ul>
+        <li>Integrated automated CI/CD pipeline using GitHub Actions with Lighthouse performance checks to ensure consistent UX quality across deployments</li>
         <li>Developed authentication and user management, including Login, Registration, and Profile pages.</li>
         <li>Implemented route protection with React Router and tailored UI visibility based on authentication state.</li>
-        <li>Configured CommerceTools client and integrated product retrieval logic.</li>
         <li>Set up pre-commit automation and code quality pipeline with Husky, Commitlint, and Lint-Staged.</li>
-        <li>Configured Vitest environment and wrote tests covering authentication and form validation logic.</li>
+        <li>Configured Vitest testing environment and implemented unit tests.</li>
       </ul>
-      <p><b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a></p>
+      <p><b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a> (commercetools data is unavailable - ends trial period).</p>
       <p><b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">link</a></p>
     </td>
   </tr>
