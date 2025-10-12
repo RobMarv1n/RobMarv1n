@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Hi there, I'm Alexey Kandyba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
-<h3 align="center">Frontend developer</h3>
+<h2 align="center">Frontend developer</h2>
 <div align="center">
   <a href="https://t.me/Rob_Marvin" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:fenalfan@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 <hr>
 
-<h3 align="center">About:</h3>
+<h2 align="center">About:</h2>
 
 <img align="right" src="https://www.codewars.com/users/Rob%20Marvin/badges/small" alt="codewars-stats" >
 
@@ -22,7 +22,7 @@
 
 🌎 Russian, English **B1**
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -41,34 +41,34 @@
   <img alt="swr" src="https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff&style=for-the-badge">
 </div>
 <div>
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img alt="vs code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white">
-  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
-  <img alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?logo=pnpm&logoColor=white" />
-  <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?logo=webpack&logoColor=white" />
-  <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img alt="biome" src="https://img.shields.io/badge/Biome-60a5fa?style=flat&logo=biome" />
-  <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?logo=lefthook&logoColor=fff&style=flat" />
-  <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-  <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white" />
-  <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
-  <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat" />
-  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" />
-  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="vs code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img alt="webpack" src="https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="biome" src="https://img.shields.io/badge/Biome-60a5fa?style=flat&style=for-the-badge&logo=biome" />
+  <img alt="lefthook" src="https://img.shields.io/badge/Lefthook-FF1E1E?style=for-the-badge&logo=lefthook&logoColor=fff&style=flat" />
+  <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img alt="prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff&style=flat" />
+  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img alt="testingLib" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </div>
 <div>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 <div>
-  <img alt="ps" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logoSize=amd&logo=figma&logoColor=white" />
+  <img alt="ps" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logoSize=amd&logo=figma&logoColor=white" />
 </div>
 
 <hr>
 
-<h3 align="center">Stats:</h3>
+<h2 align="center">Stats:</h2>
 
 <div align="center">
   <a href="https://github.com/RobMarv1n">
@@ -80,7 +80,7 @@
 
 <hr>
 
-<h3 align="center">Projects:</h3>
+<h2 align="center">Projects:</h2>
 
 <table>
   <tr>
@@ -150,9 +150,9 @@
 
 <hr>
 
-<h3 align="center">Courses:</h3>
+<h2 align="center">Courses:</h2>
 
-<h4>JavaScript:</h4>
+<h3>JavaScript:</h3>
 
 <a href="https://app.rs.school/certificate/9s7trg01" target="_blank" rel="noreferrer"><img width="33%" alt="react" src="assets/react-sertificate.png" />
 <a href="https://app.rs.school/certificate/b4d05mfa" target="_blank" rel="noreferrer"><img width="33%" alt="js-fe" src="assets/js-fe-sertificate.png" />
