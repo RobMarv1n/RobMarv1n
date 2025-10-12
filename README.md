@@ -35,7 +35,7 @@
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" />
   <img alt="rtk" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" />
-  <img alt="zustand" src="https://img.shields.io/badge/zustand-%23333A45.svg?logo=reactquery&logoColor=white" />
+  <img alt="zustand" src="https://img.shields.io/badge/zustand-%23333A45.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA8FBMVEVHcExXQzpKQDlFV16lpqyGh4tPPTdWT0weHRU7LRZGQzmxYjlaTkZsbmywVyxtXDSFhISXm6WWpcaytb6bm56gprY0LiiXmp2prLamsMa0XS42MSxkTUVDSkuyYzGihXdDV2GprbmedVxaRD1kTUWUdGFGOCN4a2OfpbI0SFFAMSddTkbCc0dWQiGFRypXQyJUQCBcTTWviDVXQyJcUDjlqCWxjkG+hBTiohtURD6lr8lORTtDVVZmPyxwSipaRSJDOzaWpsyYqMyYqM2dq8tPOjBERTs6QUKTcCeKaCJvViZdSDK4iSngoiDvqx7KkRuGEi1hAAAAOXRSTlMApZ78cB8hCAMQO/j/FOH4KlT1wFfJTjaY6SxtVexFn3Tn2sN6d671mVuJ+/PPN9CT6TfpS4C9jJaVLRihAAAAi0lEQVQIHXXBxRKCUAAF0Es/QMDubsVuGrv1///GBQ4bx3PwgwC8gFCRohs8QrQV0ZtKOZ9JcgBmU8MwqFa9kjNTUWB58f2jPOjU9juTBTbPq+vIar972MZjwPr1uDvqCFw2wQpQVm/t7Oo9gAgAFtrtZNtMFQFp7nkWU5IQECfjYbuQFvBFRJHgjw9L0A80UmaGpAAAAABJRU5ErkJggg==&logoColor=white" />
   <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white" />
   <img alt="shadcn" src="https://img.shields.io/badge/ShadcnUI-000000?logo=shadcnui&logoColor=white" />
@@ -76,6 +76,8 @@
   </a>
 </div>
 <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" />
+
+<hr>
 
 <h3 align="center">Projects:</h3>
 
