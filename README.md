@@ -69,8 +69,15 @@
 
 <h3 align="center">Stats:</h3>
 
+<div align="center">
+  <a href="https://github.com/RobMarv1n">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&show_icons=true&theme=great-gatsby&rank_icon=percentile"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
+  </a>
+</div>
+
 <img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&rank_icon=percentile" /><img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=RobMarv1n&layout=compact" />
-<!-- <img alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobMarv1n&theme=default" /> -->
+<img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 
 <h3 align="center">Projects:</h3>
 
