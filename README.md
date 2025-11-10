@@ -16,8 +16,6 @@
 
 👨‍🔬 2+ years of development experience
 
-🤝 Team player and team leader
-
 📚 Currently learning Node JS
 
 🌎 Russian **native**, English **B1**
@@ -101,6 +99,7 @@
         <li>Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.</li>
         <li>Implemented a password verification page and key profile screens, providing the basis for further security features.</li>
       </ul>
+      <p>Cite: <a href="https://elogistapp.com/" target="_blank" rel="noreferrer">eLogistApp</a></p>
       <p>Deploy: Planned — contributing to the pre-release refactoring phase before the initial MVP deployment (NDA).</p>
       <p>Repository: private (NDA).</p>
     </td>
