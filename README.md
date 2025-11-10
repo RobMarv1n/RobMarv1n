@@ -90,7 +90,7 @@
       <p align="center"><b>Service that is provided to customers (logistics operators of various types) in the form of an API service with a customizable application</b></p>
       <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
       <p><b>Role:</b> Frontend developer.</p>
-      <p><b>Stack:</b> React, TypeScript, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Zod, ESLint, Prettier, SonarQube</p>
+      <p><b>Stack:</b> React, TypeScript, Vite, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Yup, ESLint, Prettier, SonarQube</p>
       <p><b>Contribution:</b></p>
       <ul>
         <li>Refactored ~30% of the codebase, eliminating duplication and simplifying the module structure, which accelerated project navigation and facilitated further development.</li>
