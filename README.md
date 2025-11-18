@@ -76,7 +76,9 @@
 </div>
 
 <h3 align="center">🏆 GitHub Trophies:</h3>
-<img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" />
+<div align="center">
+  <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4?row=6" />
+</div>
 
 <hr>
 
@@ -93,7 +95,7 @@
       <p><b>Stack:</b> React, TypeScript, Vite, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Yup, ESLint, Prettier, SonarQube</p>
       <p><b>Contribution:</b></p>
       <ul>
-        <li>Refactored ~30% of the codebase, eliminating duplication and simplifying the module structure, which accelerated project navigation and facilitated further development.</li>
+        <li>Performed refactoring, which reduced the code base by more than 20% (by eliminating duplication and simplifying logic), and also rebuilt the architecture, dividing the project into logical modules — this significantly accelerated development and simplified support.</li>
         <li>Updated authentication flow: redesigned login and registration pages for better UX.</li>
         <li>Migrated data layer from Axios to RTK Query, enabling built-in caching and auto-refetching across 15+ API endpoints</li>
         <li>Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.</li>
