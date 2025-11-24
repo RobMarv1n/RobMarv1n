@@ -75,11 +75,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
 </div>
 
-<h3 align="center">🏆 GitHub Trophies:</h3>
-<div align="center">
-  <img alt="profile-stats" src="https://github-profile-trophy.vercel.app/?username=RobMarv1n&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4?&rank=-C,-?" />
-</div>
-
 <hr>
 
 <h2 align="center">📂 Projects:</h2>
