@@ -68,15 +68,6 @@
 
 <hr>
 
-<h2 align="center">📊 My Stats:</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobMarv1n&show_icons=true&theme=great-gatsby&rank_icon=percentile"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobMarv1n&layout=compact&langs_count=8&theme=great-gatsby"/>
-</div>
-
-<hr>
-
 <h2 align="center">📂 Projects:</h2>
 
 <table>
