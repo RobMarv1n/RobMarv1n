@@ -16,7 +16,7 @@
 
 👨‍🔬 2+ years of development experience
 
-📚 Currently learning Node JS
+📚 Currently learning TanStack Query
 
 🌎 Russian **native**, English **B1**
 
