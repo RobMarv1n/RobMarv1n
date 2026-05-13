@@ -2,8 +2,8 @@
   <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZpaTJ0cnozb3QwZDNkZHlkc3AzeXdubTh1ZHZldTIwNzI1NjN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E136ihXhzuG2OnxKen/giphy.gif" alt="pengu-wellcome" width="200">
 </div>
 
-<h1 align="center">Hi there, I'm Alexey Kandyba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
-<h2 align="center">Frontend developer</h2>
+<h1 align="center">Hi there, I'm Alexey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<h2 align="center">Frontend/fullstack developer</h2>
 <div align="center">
   <a href="https://t.me/Rob_Marvin" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:fenalfan@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -14,9 +14,9 @@
 
 <img align="right" src="https://www.codewars.com/users/Rob%20Marvin/badges/small" alt="codewars-stats" >
 
-👨‍🔬 2+ years of development experience
+👨‍🔬 3+ years of development experience
 
-📚 Currently learning TanStack Query
+📚 Currently learning Pixi.js
 
 🌎 Russian **native**, English **B1**
 
@@ -25,18 +25,27 @@
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="ts" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</div>
+<div>
   <img alt="scc3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="shadcn" src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img alt="storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=for-the-badge">
 </div>
 <div>
-  <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="zustand" src="https://img.shields.io/badge/Zustand-%23333A45.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA8FBMVEVHcExXQzpKQDlFV16lpqyGh4tPPTdWT0weHRU7LRZGQzmxYjlaTkZsbmywVyxtXDSFhISXm6WWpcaytb6bm56gprY0LiiXmp2prLamsMa0XS42MSxkTUVDSkuyYzGihXdDV2GprbmedVxaRD1kTUWUdGFGOCN4a2OfpbI0SFFAMSddTkbCc0dWQiGFRypXQyJUQCBcTTWviDVXQyJcUDjlqCWxjkG+hBTiohtURD6lr8lORTtDVVZmPyxwSipaRSJDOzaWpsyYqMyYqM2dq8tPOjBERTs6QUKTcCeKaCJvViZdSDK4iSngoiDvqx7KkRuGEi1hAAAAOXRSTlMApZ78cB8hCAMQO/j/FOH4KlT1wFfJTjaY6SxtVexFn3Tn2sN6d671mVuJ+/PPN9CT6TfpS4C9jJaVLRihAAAAi0lEQVQIHXXBxRKCUAAF0Es/QMDubsVuGrv1///GBQ4bx3PwgwC8gFCRohs8QrQV0ZtKOZ9JcgBmU8MwqFa9kjNTUWB58f2jPOjU9juTBTbPq+vIar972MZjwPr1uDvqCFw2wQpQVm/t7Oo9gAgAFtrtZNtMFQFp7nkWU5IQECfjYbuQFvBFRJHgjw9L0A80UmaGpAAAAABJRU5ErkJggg==&logoColor=white" />
-  <img alt="nextJS" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img alt="shadcn" src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img alt="swr" src="https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff&style=for-the-badge">
+</div>
+<div>
+  <img alt="postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=fff&style=for-the-badge">
+  <img alt="redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=fff&style=for-the-badge">
+  <img alt="nestjs" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=fff&style=for-the-badge">
+  <img alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge">
 </div>
 <div>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,6 +67,7 @@
 </div>
 <div>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img alt="swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=fff&style=for-the-badge">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
@@ -143,20 +153,13 @@
       <p>Interactive browser-based puzzle game where players reveal hidden pixel art by solving numeric clues. Features scalable grid rendering, responsive UI, win detection logic, progress validation and friendly hint system. Built as a SPA with reusable components and modular state handling.</p>
       <p><b>Stack:</b> HTML, SCSS, JavaScript, Vite</p>
       <p><b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a></p>
-      <p><b>Repository:</b> <a href="#">private</a></p>
+      <p><b>Repository:</b> <a href="#" disabled>private</a></p>
     </td>
   </tr>
 
 </table>
 
 <hr>
-
-<h2 align="center">🎓 Courses:</h2>
-
-<h3>JavaScript:</h3>
-
-<a href="https://app.rs.school/certificate/9s7trg01" target="_blank" rel="noreferrer"><img width="33%" alt="react" src="assets/react-sertificate.png" />
-<a href="https://app.rs.school/certificate/b4d05mfa" target="_blank" rel="noreferrer"><img width="33%" alt="js-fe" src="assets/js-fe-sertificate.png" />
 
 <div id="contacts" align="center">
   <h3>💬 Let's Connect!</h3>
