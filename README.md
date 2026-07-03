@@ -82,6 +82,27 @@
 
 <table>
   <tr>
+      <td><img alt="itbooster" src="assets/itbooster.png" /></td>
+      <td>
+        <h3 align="center">itbooster</h3>
+       <p align="center"><b>An online learning platform that helps users improve their programming skills through courses, challenges, and interactive learning tools.</b></p>
+        <p>The platform includes a rich-text course editor, learning roadmaps, coding challenges, progress tracking, and an administration panel for managing educational content, banners, and platform configuration.</p>
+        <p><b>Role:</b> Fullstack developer.</p>
+        <p><b>Stack:</b> Front: React 19, Next.js 16, TypeScript, Tailwind, TanStack Query, Zustand, React Hook Form, shadcn/ui, TipTap, Socket.IO, Storybook, Vitest, ESLint, Prettier </p>
+        <p>Back: NestJS, TypeScript, Prisma ORM, PostgreSQL, REST API, JWT Authentication, Docker, PNPM Monorepo</p>
+        <p><b>Contribution:</b></p>
+        <ul>
+          <li>Designed and implemented a configurable banner management system, including both the admin interface and backend logic (Next.js, Prisma, PostgreSQL).</li>
+          <li>Led development of the Challenges module: implemented core business logic, built the administrative panel, and delivered most of the feature set from requirements to production-ready state.</li>
+          <li>Redesigned key product sections, including the Roadmaps page, improving UI consistency and maintainability while implementing the required backend support.</li>
+          <li>Developed full-stack features end-to-end, covering React frontend, admin dashboards, REST API endpoints, database schema, and business logic using Next.js, Prisma, and PostgreSQL.</li>
+        </ul>
+        <p>Cite: <a href="https://itbooster.ru/" target="_blank" rel="noreferrer">itbooster</a></p>
+        <p>Repository: private (NDA).</p>
+      </td>
+    </tr>
+
+  <tr>
     <td><img alt="eLogist App" src="assets/eLogistApp.png" /></td>
     <td>
       <h3 align="center">eLogist App</h3>
