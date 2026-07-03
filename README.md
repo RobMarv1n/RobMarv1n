@@ -16,7 +16,7 @@
 
 👨‍🔬 3+ years of development experience
 
-📚 Currently learning Pixi.js
+📚 Currently learning Drizzle
 
 🌎 Russian **native**, English **B1**
 
