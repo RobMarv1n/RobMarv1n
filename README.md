@@ -82,23 +82,34 @@
 
 <table>
   <tr>
-    <td><img alt="itbooster" src="assets/itbooster.png" /></td>
+    <td width="42%">
+    <img alt="itbooster" src="assets/itbooster.png"/>
+    </td>
+
     <td>
-      <h3 align="center">itbooster</h3>
-      <p align="center"><b>An online learning platform that helps users improve their programming skills through courses, challenges, and interactive learning tools.</b></p>
-      <p>The platform includes a rich-text course editor, learning roadmaps, coding challenges, progress tracking, and an administration panel for managing educational content, banners, and platform configuration.</p>
-      <p><b>Role:</b> Fullstack developer.</p>
-      <p><b>Stack:</b> Front: React 19, Next.js 16, TypeScript, Tailwind, TanStack Query, Zustand, React Hook Form, shadcn/ui, TipTap, Socket.IO, Storybook, Vitest, ESLint, Prettier </p>
-      <p>Back: NestJS, TypeScript, Prisma ORM, PostgreSQL, REST API, JWT Authentication, Docker, PNPM Monorepo</p>
-      <p><b>Contribution:</b></p>
+
+      <h3 align="center">ITBooster</h3>
+
+      <p><b>Online learning platform for developers with interactive courses, coding challenges and learning roadmaps.</b></p>
+
+      <p><b>Role:</b> Fullstack Developer</p>
+
+      <p><b>Highlights</b></p>
+
       <ul>
-        <li>Designed and implemented a configurable banner management system, including both the admin interface and backend logic (Next.js, Prisma, PostgreSQL).</li>
-        <li>Led development of the Challenges module: implemented core business logic, built the administrative panel, and delivered most of the feature set from requirements to production-ready state.</li>
-        <li>Redesigned key product sections, including the Roadmaps page, improving UI consistency and maintainability while implementing the required backend support.</li>
-        <li>Implemented end-to-end product features spanning React frontend, administrative interfaces, REST API endpoints, database schema design and business logic, ensuring seamless integration between client and server applications.</li>
+      <li>Built the Challenges module from requirements to production.</li>
+      <li>Designed a configurable banner management system.</li>
+      <li>Redesigned Roadmaps and key product pages.</li>
+      <li>Implemented end-to-end features across React, NestJS and PostgreSQL.</li>
       </ul>
-      <p>Cite: <a href="https://itbooster.ru/" target="_blank" rel="noreferrer">itbooster</a></p>
-      <p>Repository: private (NDA).</p>
+
+      <p><b>Tech:</b> React • Next.js • NestJS • Prisma • PostgreSQL • Docker</p>
+
+      <p>
+      🌐 <a href="https://itbooster.ru/">Website</a> •
+      🔒 Private (NDA)
+      </p>
+
     </td>
   </tr>
 
