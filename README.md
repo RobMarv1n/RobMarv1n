@@ -144,6 +144,7 @@
   <tr>
     <td><img alt="REST Client" src="assets/restClient.png" /></td>
     <td>
+      <h3 align="center">REST Client</h3>
       <p><b>Postman-inspired web application for testing REST APIs.</b></p>
       <p><b>Role:</b> Frontend Developer</p>
       <ul>
@@ -153,7 +154,7 @@
       <li>Configured unit testing with Vitest.</li>
       </ul>
       <p><b>Tech:</b> Next.js • TypeScript • Firebase • Tailwind</p>
-      <p><b>Deploy:</b> <a href="https://rest-client-wingedseraph.netlify.app/ru" target="_blank" rel="noreferrer">link</a></p>
+      <p><b>Deploy:</b> <a href="https://rest-client-wingedseraph.netlify.app/ru" target="_blank" rel="noreferrer">link</a></p> •
       <p><b>Repository:</b> <a href="https://github.com/wingedseraph/rest-client-app">link</a></p>
     </td>
   </tr>
@@ -171,7 +172,7 @@
         <li>Added unit testing with Vitest.</li>
       </ul>
       <p><b>Tech:</b> React • TypeScript • Vite • CommerceTools</p>
-      <p><b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a> (commercetools data is unavailable - ends trial period).</p>
+      <p><b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a> (commercetools data is unavailable - ends trial period).</p> •
       <p><b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">link</a></p>
     </td>
   </tr>
@@ -188,7 +189,7 @@
         <li>Modular JavaScript architecture.</li>
       </ul>
       <p><b>Tech:</b> JavaScript • HTML • SCSS • Vite</p> 
-      <p><b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a></p>
+      <p><b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a></p> •
       <p><b>Repository:</b> <a href="#" disabled>private</a></p>
     </td>
   </tr>
