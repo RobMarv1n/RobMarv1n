@@ -195,7 +195,7 @@
       <p><b>Tech:</b> JavaScript • HTML • SCSS • Vite</p> 
       <p>
         🌐 <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">Live Demo</a> •
-        💻 <a href="#" disabled>Repository private</a>
+        💻 <a disabled>Repository private</a>
       </p>
     </td>
   </tr>
