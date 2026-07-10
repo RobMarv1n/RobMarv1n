@@ -82,9 +82,7 @@
 
 <table>
   <tr>
-    <td width="42%">
-    <img alt="itbooster" src="assets/itbooster.png"/>
-    </td>
+    <td width="42%"><img alt="itbooster" src="assets/itbooster.png"/></td>
     <td>
       <h3 align="center">ITBooster</h3>
       <p><b>Online learning platform for developers with interactive courses, coding challenges and learning roadmaps.</b></p>
@@ -99,72 +97,62 @@
       <p><b>Tech:</b> React • Next.js • NestJS • Prisma • PostgreSQL • Docker</p>
       <p>
       🌐 <a href="https://itbooster.ru/">Website</a> •
-      🔒 Private (NDA)
+      🔒 Private repository (NDA)
       </p>
     </td>
   </tr>
 
   <tr>
-    <td><img alt="GNR Nexus" src="assets/gnr-nexus.png" /></td>
+    <td width="42%"><img alt="GNR Nexus" src="assets/gnr-nexus.png"/></td>
     <td>
       <h3 align="center">GNR Nexus</h3>
-      <p align="center"><b>A community management platform for gaming clans that combines task management, event tracking, Telegram automation, and collaboration tools in a single application.</b></p>
-      <p>The platform helps organize recurring tasks, track boss spawn timers, send Telegram notifications, and manage shared information for clan members. Built as a full-stack application with a modular architecture and self-hosted infrastructure.</p>
-      <p><b>Role:</b> Fullstack developer.</p>
-      <p><b>Stack:</b> Front: Next.js 15, React, TypeScript, Tailwind CSS, React Hook Form, TipTap, TanStack Query, Zod </p>
-      <p>Back: Fastify, TypeScript, Drizzle ORM, PostgreSQL, REST API, Docker, Docker Compose, Caddy, Telegram Bot API</p>
-      <p><b>Contribution:</b></p>
+      <p><b>Community management platform for gaming clans with task management, boss tracking and Telegram automation.</b></p>
+      <p><b>Role:</b> Fullstack Developer</p>
+      <p><b>Highlights</b></p>
       <ul>
-        <li>Designed and developed the application architecture from scratch, separating frontend, backend and database responsibilities to improve maintainability and scalability.</li>
-        <li>Built a recurring task management module with flexible scheduling rules (daily, weekly and custom recurrence) and Telegram notifications.</li>
-        <li>Implemented a Boss Tracker module with search, filtering and automatic spawn time calculations for more than 100 game entities.</li>
-        <li>Migrated the project from direct database access on the frontend to a dedicated Fastify REST API using Drizzle ORM, improving security and separating business logic.</li>
-        <li>Deployed the application on a self-managed VPS using Docker Compose and Caddy, configured development and production environments, database migrations and secure API communication.</li>
+        <li>Designed the architecture from scratch.</li>
+        <li>Built recurring task management with Telegram notifications.</li>
+        <li>Implemented Boss Tracker for 100+ entities with automatic spawn calculations.</li>
+        <li>Migrated frontend → Fastify API and deployed on a self-hosted VPS.</li>
       </ul>
-      <p>Status: Active development.</p>
-      <p>Repository: private</p>
-      <p>🚧 Active development</p>
+      <p><b>Tech:</b> Next.js • Fastify • Drizzle • PostgreSQL • Docker</p>
+      <p>
+      🚧 Active Development •
+      🔒 Private Repository
+      </p>
     </td>
-  </tr>
-
+    </tr>
   <tr>
-    <td><img alt="eLogist App" src="assets/eLogistApp.png" /></td>
+    <td width="42%"><img alt="eLogist App" src="assets/eLogistApp.png" /></td>
     <td>
-      <h3 align="center">eLogist App</h3>
-      <p align="center"><b>Service that is provided to customers (logistics operators of various types) in the form of an API service with a customizable application</b></p>
-      <p>On the website of the eLogistapp company, customers can register and pay for the service according to the batch model for the number of processed requests. An additional service is the integration and adaptation of the mobile application and API service in accordance with the configuration of the client company.</p>
-      <p><b>Role:</b> Frontend developer.</p>
-      <p><b>Stack:</b> React, TypeScript, Vite, ReduxToolkit + RTK Query, CSS Modules, React Hook Form, Yup, ESLint, Prettier, SonarQube</p>
-      <p><b>Contribution:</b></p>
+      <h3 align="center">eLogistApp</h3>
+      <p><b>CRM platform for logistics operators with role-based workflows and order management.</b></p>
+      <p><b>Role:</b> Frontend Developer</p>
       <ul>
-        <li>Performed refactoring, which reduced the code base by more than 20% (by eliminating duplication and simplifying logic), and also rebuilt the architecture, dividing the project into logical modules — this significantly accelerated development and simplified support.</li>
-        <li>Updated authentication flow: redesigned login and registration pages for better UX.</li>
-        <li>Migrated data layer from Axios to RTK Query, enabling built-in caching and auto-refetching across 15+ API endpoints</li>
-        <li>Developed a custom data parser to handle conversion between snake_case (server-side) and camelCase (client-side) naming conventions.</li>
-        <li>Implemented a password verification page and key profile screens, providing the basis for further security features.</li>
+        <li>Refactored frontend architecture, reducing codebase by ~20%.</li>
+        <li>Implemented JWT authentication with RTK Query.</li>
+        <li>Migrated 15+ endpoints from Axios to RTK Query.</li>
+        <li>Established code quality standards with SonarQube and automated checks.</li>
       </ul>
-      <p>Cite: <a href="https://elogistapp.com/" target="_blank" rel="noreferrer">eLogistApp</a></p>
-      <p>Deploy: Planned — contributing to the pre-release refactoring phase before the initial MVP deployment (NDA).</p>
-      <p>Repository: private (NDA).</p>
+      <p><b>Tech:</b> React • TypeScript • RTK Query • Vite • SonarQube</p>
+      <p>
+      🌐 eLogistApp • 🔒 Private (NDA)
+      </p>
     </td>
   </tr>
 
   <tr>
     <td><img alt="REST Client" src="assets/restClient.png" /></td>
     <td>
-      <h3 align="center">REST Client</h3>
-      <p align="center"><b>Web-based REST API testing tool (analogous to Postman), allowing users to send HTTP requests, organize history, and manage environment variables</b></p>
-      <p>The application enables users to authenticate, construct API requests, inspect responses, and store previous queries for reuse. Authenticated and guest users have access to different interface states, ensuring a secure and structured workflow.</p>
+      <p><b>Postman-inspired web application for testing REST APIs.</b></p>
       <p><b>Role:</b> Frontend Developer</p>
-      <p><b>Stack:</b> Next.js, TypeScript, Next Intl (i18n), shadcn/ui, Tailwind, Firebase Auth, Firebase Cloud DB, SWR, React Hook Form, Zod, Biome, Lefthook, Vitest + React Testing Library</p>
-      <p><b>Contribution:</b></p>
       <ul>
-        <li>Implemented authentication flow via Next.js API routes with Firebase token validation and persistent user sessions.</li>
-        <li>Restricted access to private sections (REST Client, History, Variables) using route guards with automatic redirects for unauthorized users.</li>
-        <li>Built reactive UI states that adapt layout, navigation, and available actions depending on whether the user is authenticated or not.</li>
-        <li>Integrated internationalization (i18n) using Next Intl with localization-ready structure.</li>
-        <li>Configured Vitest testing environment and implemented unit tests.</li>
+      <li>Implemented authentication and protected routes.</li>
+      <li>Built request history and environment management.</li>
+      <li>Added internationalization support.</li>
+      <li>Configured unit testing with Vitest.</li>
       </ul>
+      <p><b>Tech:</b> Next.js • TypeScript • Firebase • Tailwind</p>
       <p><b>Deploy:</b> <a href="https://rest-client-wingedseraph.netlify.app/ru" target="_blank" rel="noreferrer">link</a></p>
       <p><b>Repository:</b> <a href="https://github.com/wingedseraph/rest-client-app">link</a></p>
     </td>
@@ -174,30 +162,32 @@
     <td><img alt="Ecobazar" src="assets/Ecobazar.png" /></td>
     <td>
       <h3 align="center">Ecobazar</h3>
-      <p align="center"><b>Online shop integrated with CommerceTools API</b></p>
-      <p>E-commerce SPA, based on CommerceTools SDK. Adaptive to 390px semantic layout, browser routing, autorization/registration/profile pages, catalog, cart, supporting promocodes and dynamic price calculation for different countries — all, that you need for e-shopping. Has unit tests coverage.</p>
+      <p><b>E-commerce SPA powered by commercetools.</b></p>
       <p><b>Role:</b> Team Lead</p>
-       <p><b>Stack:</b> React, TypeScript, Vite, CommerceTools SDK, React Router, React Hook Form, Sonner, Swiper, Vitest + React Testing Library, ESLint, Prettier, Stylelint, Husky, Commitlint, Lint-Staged</p>
-      <p><b>Contribution:</b></p>
       <ul>
-        <li>Integrated automated CI/CD pipeline using GitHub Actions with Lighthouse performance checks to ensure consistent UX quality across deployments</li>
-        <li>Developed authentication and user management, including Login, Registration, and Profile pages.</li>
-        <li>Implemented route protection with React Router and tailored UI visibility based on authentication state.</li>
-        <li>Set up pre-commit automation and code quality pipeline with Husky, Commitlint, and Lint-Staged.</li>
-        <li>Configured Vitest testing environment and implemented unit tests.</li>
+        <li>Implemented authentication and user profile.</li>
+        <li>Configured CI/CD with Lighthouse checks.</li>
+        <li>Set up pre-commit quality pipeline.</li>
+        <li>Added unit testing with Vitest.</li>
       </ul>
+      <p><b>Tech:</b> React • TypeScript • Vite • CommerceTools</p>
       <p><b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a> (commercetools data is unavailable - ends trial period).</p>
       <p><b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">link</a></p>
     </td>
   </tr>
 
   <tr>
-    <td><img alt="Nonograms" src="assets/nonograms.png" /></td>
+    <td><img alt="Nonograms" src="assets/nonograms.png"/></td>
     <td>
       <h3 align="center">Nonograms</h3>
-      <p align="center"><b>Logic puzzle game inspired by classic Japanese Picross</b></p>
-      <p>Interactive browser-based puzzle game where players reveal hidden pixel art by solving numeric clues. Features scalable grid rendering, responsive UI, win detection logic, progress validation and friendly hint system. Built as a SPA with reusable components and modular state handling.</p>
-      <p><b>Stack:</b> HTML, SCSS, JavaScript, Vite</p>
+      <p><b>Browser implementation of the classic Japanese puzzle game.</b></p>
+      <ul>
+        <li>Responsive game engine.</li>
+        <li>Win validation and progress tracking.</li>
+        <li>Scalable board rendering.</li>
+        <li>Modular JavaScript architecture.</li>
+      </ul>
+      <p><b>Tech:</b> JavaScript • HTML • SCSS • Vite</p> 
       <p><b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a></p>
       <p><b>Repository:</b> <a href="#" disabled>private</a></p>
     </td>
