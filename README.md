@@ -176,7 +176,7 @@
       <p><b>Tech:</b> React • TypeScript • Vite • CommerceTools</p>
       <p>
         🌐 <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">Live Demo</a> •
-        💻 <b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">Repository</a>
+        💻 <a href="https://github.com/RobMarv1n/eCommerce-Application">Repository</a>
       </p>
     </td>
   </tr>
