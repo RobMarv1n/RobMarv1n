@@ -85,31 +85,22 @@
     <td width="42%">
     <img alt="itbooster" src="assets/itbooster.png"/>
     </td>
-
     <td>
-
       <h3 align="center">ITBooster</h3>
-
       <p><b>Online learning platform for developers with interactive courses, coding challenges and learning roadmaps.</b></p>
-
       <p><b>Role:</b> Fullstack Developer</p>
-
       <p><b>Highlights</b></p>
-
       <ul>
-      <li>Built the Challenges module from requirements to production.</li>
-      <li>Designed a configurable banner management system.</li>
-      <li>Redesigned Roadmaps and key product pages.</li>
-      <li>Implemented end-to-end features across React, NestJS and PostgreSQL.</li>
+        <li>Built the Challenges module from requirements to production.</li>
+        <li>Designed a configurable banner management system.</li>
+        <li>Redesigned Roadmaps and key product pages.</li>
+        <li>Implemented end-to-end features across React, NestJS and PostgreSQL.</li>
       </ul>
-
       <p><b>Tech:</b> React • Next.js • NestJS • Prisma • PostgreSQL • Docker</p>
-
       <p>
       🌐 <a href="https://itbooster.ru/">Website</a> •
       🔒 Private (NDA)
       </p>
-
     </td>
   </tr>
 
