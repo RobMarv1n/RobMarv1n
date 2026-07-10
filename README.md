@@ -82,25 +82,48 @@
 
 <table>
   <tr>
-      <td><img alt="itbooster" src="assets/itbooster.png" /></td>
-      <td>
-        <h3 align="center">itbooster</h3>
-       <p align="center"><b>An online learning platform that helps users improve their programming skills through courses, challenges, and interactive learning tools.</b></p>
-        <p>The platform includes a rich-text course editor, learning roadmaps, coding challenges, progress tracking, and an administration panel for managing educational content, banners, and platform configuration.</p>
-        <p><b>Role:</b> Fullstack developer.</p>
-        <p><b>Stack:</b> Front: React 19, Next.js 16, TypeScript, Tailwind, TanStack Query, Zustand, React Hook Form, shadcn/ui, TipTap, Socket.IO, Storybook, Vitest, ESLint, Prettier </p>
-        <p>Back: NestJS, TypeScript, Prisma ORM, PostgreSQL, REST API, JWT Authentication, Docker, PNPM Monorepo</p>
-        <p><b>Contribution:</b></p>
-        <ul>
-          <li>Designed and implemented a configurable banner management system, including both the admin interface and backend logic (Next.js, Prisma, PostgreSQL).</li>
-          <li>Led development of the Challenges module: implemented core business logic, built the administrative panel, and delivered most of the feature set from requirements to production-ready state.</li>
-          <li>Redesigned key product sections, including the Roadmaps page, improving UI consistency and maintainability while implementing the required backend support.</li>
-          <li>Developed full-stack features end-to-end, covering React frontend, admin dashboards, REST API endpoints, database schema, and business logic using Next.js, Prisma, and PostgreSQL.</li>
-        </ul>
-        <p>Cite: <a href="https://itbooster.ru/" target="_blank" rel="noreferrer">itbooster</a></p>
-        <p>Repository: private (NDA).</p>
-      </td>
-    </tr>
+    <td><img alt="itbooster" src="assets/itbooster.png" /></td>
+    <td>
+      <h3 align="center">itbooster</h3>
+      <p align="center"><b>An online learning platform that helps users improve their programming skills through courses, challenges, and interactive learning tools.</b></p>
+      <p>The platform includes a rich-text course editor, learning roadmaps, coding challenges, progress tracking, and an administration panel for managing educational content, banners, and platform configuration.</p>
+      <p><b>Role:</b> Fullstack developer.</p>
+      <p><b>Stack:</b> Front: React 19, Next.js 16, TypeScript, Tailwind, TanStack Query, Zustand, React Hook Form, shadcn/ui, TipTap, Socket.IO, Storybook, Vitest, ESLint, Prettier </p>
+      <p>Back: NestJS, TypeScript, Prisma ORM, PostgreSQL, REST API, JWT Authentication, Docker, PNPM Monorepo</p>
+      <p><b>Contribution:</b></p>
+      <ul>
+        <li>Designed and implemented a configurable banner management system, including both the admin interface and backend logic (Next.js, Prisma, PostgreSQL).</li>
+        <li>Led development of the Challenges module: implemented core business logic, built the administrative panel, and delivered most of the feature set from requirements to production-ready state.</li>
+        <li>Redesigned key product sections, including the Roadmaps page, improving UI consistency and maintainability while implementing the required backend support.</li>
+        <li>Implemented end-to-end product features spanning React frontend, administrative interfaces, REST API endpoints, database schema design and business logic, ensuring seamless integration between client and server applications.</li>
+      </ul>
+      <p>Cite: <a href="https://itbooster.ru/" target="_blank" rel="noreferrer">itbooster</a></p>
+      <p>Repository: private (NDA).</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img alt="GNR Nexus" src="assets/gnr-nexus.png" /></td>
+    <td>
+      <h3 align="center">GNR Nexus</h3>
+      <p align="center"><b>A community management platform for gaming clans that combines task management, event tracking, Telegram automation, and collaboration tools in a single application.</b></p>
+      <p>The platform helps organize recurring tasks, track boss spawn timers, send Telegram notifications, and manage shared information for clan members. Built as a full-stack application with a modular architecture and self-hosted infrastructure.</p>
+      <p><b>Role:</b> Fullstack developer.</p>
+      <p><b>Stack:</b> Front: Next.js 15, React, TypeScript, Tailwind CSS, React Hook Form, TipTap, TanStack Query, Zod </p>
+      <p>Back: Fastify, TypeScript, Drizzle ORM, PostgreSQL, REST API, Docker, Docker Compose, Caddy, Telegram Bot API</p>
+      <p><b>Contribution:</b></p>
+      <ul>
+        <li>Designed and developed the application architecture from scratch, separating frontend, backend and database responsibilities to improve maintainability and scalability.</li>
+        <li>Built a recurring task management module with flexible scheduling rules (daily, weekly and custom recurrence) and Telegram notifications.</li>
+        <li>Implemented a Boss Tracker module with search, filtering and automatic spawn time calculations for more than 100 game entities.</li>
+        <li>Migrated the project from direct database access on the frontend to a dedicated Fastify REST API using Drizzle ORM, improving security and separating business logic.</li>
+        <li>Deployed the application on a self-managed VPS using Docker Compose and Caddy, configured development and production environments, database migrations and secure API communication.</li>
+      </ul>
+      <p>Status: Active development.</p>
+      <p>Repository: private</p>
+      <p>🚧 Active development</p>
+    </td>
+  </tr>
 
   <tr>
     <td><img alt="eLogist App" src="assets/eLogistApp.png" /></td>
