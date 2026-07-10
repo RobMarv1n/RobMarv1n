@@ -148,15 +148,15 @@
       <p><b>Postman-inspired web application for testing REST APIs.</b></p>
       <p><b>Role:</b> Frontend Developer</p>
       <ul>
-      <li>Implemented authentication and protected routes.</li>
-      <li>Built request history and environment management.</li>
-      <li>Added internationalization support.</li>
-      <li>Configured unit testing with Vitest.</li>
+        <li>Implemented authentication and protected routes.</li>
+        <li>Built request history and environment management.</li>
+        <li>Added internationalization support.</li>
+        <li>Configured unit testing with Vitest.</li>
       </ul>
       <p><b>Tech:</b> Next.js • TypeScript • Firebase • Tailwind</p>
       <p>
-        <b>Deploy:</b> <a href="https://rest-client-wingedseraph.netlify.app/ru" target="_blank" rel="noreferrer">link</a> •
-        <b>Repository:</b> <a href="https://github.com/wingedseraph/rest-client-app">link</a>
+        🌐 <a href="https://rest-client-wingedseraph.netlify.app/ru" target="_blank" rel="noreferrer">Live Demo</a> •
+        💻 <a href="https://github.com/wingedseraph/rest-client-app">Repository</a>
       </p>
     </td>
   </tr>
@@ -175,8 +175,8 @@
       </ul>
       <p><b>Tech:</b> React • TypeScript • Vite • CommerceTools</p>
       <p>
-        <b>Deploy:</b> <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">link</a> (commercetools data is unavailable - ends trial period). •
-        <b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">link</a>
+        🌐 <a href="https://ecobazar-sprint4.netlify.app/" target="_blank" rel="noreferrer">Live Demo</a> •
+        💻 <b>Repository:</b> <a href="https://github.com/RobMarv1n/eCommerce-Application">Repository</a>
       </p>
     </td>
   </tr>
@@ -194,8 +194,8 @@
       </ul>
       <p><b>Tech:</b> JavaScript • HTML • SCSS • Vite</p> 
       <p>
-        <b>Deploy:</b> <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">link</a> •
-        <b>Repository:</b> <a href="#" disabled>private</a>
+        🌐 <a href="https://rolling-scopes-school.github.io/robmarv1n-JSFE2024Q4/nonograms/" target="_blank" rel="noreferrer">Live Demo</a> •
+        💻 <a href="#" disabled>Repository private</a>
       </p>
     </td>
   </tr>
